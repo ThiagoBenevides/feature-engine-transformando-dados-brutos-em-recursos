@@ -1,0 +1,9 @@
+feature-engine==1.8.1
+matplotlib==3.7.1
+matplotlib-inline==0.1.7
+matplotlib-venn==1.1.1
+pandas==2.1.2
+sklearn-pandas==2.2.0
+yellowbrick==1.5
+yfinance ==0.2.44
+
